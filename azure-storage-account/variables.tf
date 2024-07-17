@@ -25,7 +25,7 @@ variable "rg_name" {
 variable "sa_name" {
   description = "The name of the storage account."
   type        = string
-  default     = "marcxstxterraform"
+  default     = "nomedasuastorageaccount"
 }
 
 variable "c_name" {
