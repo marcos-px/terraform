@@ -1,0 +1,1 @@
+## Cria um bucket na aws utilizando o Terraform
